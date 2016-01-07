@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1429519670 source:c:\users\tommaso\desktop\avanzato\board.c
+	<stdio.h>
+	<stdlib.h>
+	"board.h"
+
+1429519856 c:\users\tommaso\desktop\avanzato\board.h
+
+1429519006 source:c:\users\tommaso\desktop\avanzato\player.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1429519670 source:c:\users\tommaso\desktop\mnk_game_release\code\src\board.c
+	<stdio.h>
+	<stdlib.h>
+	"board.h"
+
+1429519856 c:\users\tommaso\desktop\mnk_game_release\code\src\board.h
+
+1452171242 source:c:\users\tommaso\desktop\mnk_game_release\code\src\mnkgame.c
+	<stdio.h>
+	<stdlib.h>
+	"board.h"
+	"player.h"
+
+1429519114 c:\users\tommaso\desktop\mnk_game_release\code\src\player.h
+
+1452171588 source:c:\users\tommaso\desktop\mnk_game_release\code\src\player.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
